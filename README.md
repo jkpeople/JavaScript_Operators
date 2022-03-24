@@ -10,10 +10,29 @@
 ## Exercise 1
 
 1. Declare 2 variables, `a` and `b`, and assign 20 to `a` and 4 to `b`
+
+let x = 20;
+let y = 4;
+
 2. Declare a variable `add` that uses the `+` operator to store the result of adding the values stored in `a` and `b`
+
+let add = x + y;
+
 3. Declare a variable `minus` that uses the `-` operator to store the result of subtracting the values stored in `a` and `b`
+
+let minus = x - y;
+
 4. Declare a variable `multiply` that uses the `*` operator to store the result of multiplying the values stored in `a` and `b`
+
+let multiply = x * y;
+
 5. Declare a variable `dividing` that uses the `/` operator to store the result of dividing the values stored in `a` and `b`
+
+let divide = x / y;
+
+let exp = x ** y;
+
+let mod = x % y;
 
 You can print the value of the variables to the browser console (ex: `console.log(add)`) to check the result.
 
